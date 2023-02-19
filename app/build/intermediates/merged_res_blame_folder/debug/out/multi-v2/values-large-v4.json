@@ -1,0 +1,91 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.fullerton.kj.colormaker.app-mergeDebugResources-27:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kavil.jain\\AndroidStudioProjects\\ColorMaker\\app\\src\\main\\res\\values-large\\dimension.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "43",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "43",
+                        "endOffsets": "571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kavil.jain\\.gradle\\caches\\transforms-3\\2dffde985959670c432e1e6cfeae727b\\transformed\\material-1.8.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "796,918,1052,1493",
+                        "endLines": "12,13,19,25",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "913,1047,1488,1931"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kavil.jain\\.gradle\\caches\\transforms-3\\f45c9f5ed759b4ac0deb287bab3d78c7\\transformed\\appcompat-1.6.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,576,680",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,675,791"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\kavil.jain\\.gradle\\daemon\\7.5\\edu.fullerton.kj.colormaker.app-mergeDebugResources-27:\\values-large-v4\\values-large-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kavil.jain\\.gradle\\caches\\transforms-3\\2dffde985959670c432e1e6cfeae727b\\transformed\\material-1.8.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,177,311,752",
+                        "endLines": "2,3,9,15",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "172,306,747,1190"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "752,874,1008,1449",
+                        "endLines": "11,12,18,24",
+                        "endColumns": "121,133,10,10",
+                        "endOffsets": "869,1003,1444,1887"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kavil.jain\\.gradle\\caches\\transforms-3\\f45c9f5ed759b4ac0deb287bab3d78c7\\transformed\\appcompat-1.6.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                }
+            ]
+        }
+    ]
+}
